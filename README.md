@@ -31,7 +31,7 @@ Este gráfico mostra o **total de vendas por cliente**. Ele revela quais cliente
 Este gráfico apresenta o **total de vendas por produto**, em termos de **quantidade**. Ele indica os produtos mais populares entre os clientes, ou seja, aqueles com maior número de unidades vendidas. Isso pode ajudar a entender quais itens possuem maior demanda.
 
 ### 3. Total de Vendas por Produto (Valor)
-![Gráfico 3](https://i.imgur.com/cBniJ07.png)
+![Gráfico 3](https://i.imgur.com/YLf3mzw.png)
 Este gráfico mostra o **total de vendas por produto**, mas agora em termos de **valor financeiro**. Ele destaca quais produtos geraram maior receita, independentemente da quantidade vendida. Isso é útil para identificar os itens que mais impactam o faturamento da empresa.
 
 ## Como Executar
