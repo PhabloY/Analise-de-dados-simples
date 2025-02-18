@@ -23,7 +23,7 @@ O objetivo principal é **analisar dados de vendas** para entender o comportamen
 Durante a análise, três gráficos principais foram gerados para ilustrar os resultados de forma visual:
 
 ### 1. Total de Vendas por Cliente
-![Gráfico 1](https://i.imgur.com/TgywFRL.png)
+![Gráfico 1](https://i.imgur.com/dBUGVye.png)
 Este gráfico mostra o **total de vendas por cliente**. Ele revela quais clientes são responsáveis pelas maiores quantidades de vendas, facilitando a identificação dos clientes mais engajados ou que mais compraram durante o período analisado.
 
 ### 2. Total de Vendas por Produto (Quantidade)
