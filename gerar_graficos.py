@@ -66,6 +66,8 @@ plt.title('Total de Vendas por Produto (Valor)')
 plt.xlabel('Produto')
 plt.ylabel('Valor das Vendas (R$)')
 plt.xticks(rotation=45)
+max_venda = vendas_valor['valor_venda'].max()
+plt.ylim(0, max_venda * 1.2)
 plt.tight_layout()  # Ajusta para que tudo caiba
 # Salva a imagem com o nome especificado
 plt.savefig('grafico_vendas_produto_valor.png')
